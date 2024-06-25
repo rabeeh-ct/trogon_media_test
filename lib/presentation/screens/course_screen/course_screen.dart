@@ -102,9 +102,9 @@ class CourseScreen extends StatelessWidget {
                                         onPressed: null,
                                         child:
                                         AppText("WhatsApp",color: whiteColor,),
-                                      )
+                                      ),
                                     ],
-                                  )
+                                  ),
                                 ],
                               ),
                             ),
